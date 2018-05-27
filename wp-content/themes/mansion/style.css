@@ -177,3 +177,6 @@ div.navigation .prev a { background-position:  0 -20px;width: 75px;}
 div.navigation .next a { background-position: -75px -20px; width: 54px;}
 div.navigation .next a:hover { background-position: -75px -40px; }
 div.navigation .prev a:hover { background-position: 0 -40px; }
+
+/* Fixes for static site */
+li.menu-item-object-category { display: none; }
