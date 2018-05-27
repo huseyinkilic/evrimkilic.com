@@ -1,1 +1,0 @@
-# evrimkilic.com
